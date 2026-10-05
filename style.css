@@ -27,10 +27,16 @@
 }
 .border{
     border:2px solid black;
+    
 }
 .border:hover{
     border:1.5px solid white
 }
+.nav-signin a , .nav-return a , .nav-cart a{
+    color:white;
+    text-decoration:none;
+}
+
 /**box2**/
 .add-first{
     color:#cccccc;
