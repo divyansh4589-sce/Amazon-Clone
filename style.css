@@ -32,7 +32,7 @@
 .border:hover{
     border:1.5px solid white
 }
-.nav-signin a , .nav-return a , .nav-cart a ,{ 
+.nav-signin a , .nav-return a , .nav-cart a { 
     color:white;
     text-decoration:none;
 }
