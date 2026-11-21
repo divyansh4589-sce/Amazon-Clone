@@ -23,13 +23,24 @@ The Amazon Clone is a static e-commerce website interface designed to practice H
 
 ## 📂 Project Structure
 
+
 ```text
 Amazon-Clone/
 │
+├── amazon_logo.jpg
+├── box1-image.jpg
+├── box2-image.jpg
+├── box3-image.jpg
+├── box4-image.jpg
+├── box5-image.jpg
+├── box6-image.jpg
+├── box7-image.jpg
+├── box8-image.jpg
+├── hero-image.jpg
+│
 ├── index.html
 ├── style.css
-└── images/
-    └── image files
+└── README.md
 ```
 
 *Note: The folder structure above is an example. Adjust it according to your actual project files.*
